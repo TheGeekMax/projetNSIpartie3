@@ -1,16 +1,18 @@
 # projetNSIpartie3
 
 **petite precision avant l'explication**
+
 vous avez pu voir mon abscence la derniere semaine avant les vacances et soyons honete , c'est assez embetant , j'ai pas avancé sur le projet , mais je l'ais testé a fond !
 
-##les explications
-
+## les explications
 quand on lance le programme (avec thonny ou IDLE bien sur) on tombe sur une fenetre comme ca
+
 *image*
 
 il suffi de cliquer sur le bouton et de selectionner le **.csv** qui represente la classe
 
 l'interface evolue alors !!
+
 *image 2*
 
 maintenant 2 boutons s'affiche
