@@ -6,7 +6,7 @@ vous avez pu voir mon abscence la derniere semaine avant les vacances et soyons 
 ## les explications
 quand on lance **main.py** (avec thonny ou IDLE bien sur) on tombe sur une fenetre comme ca
 
-![][./assets/img1.png]
+![]{./assets/img1.png}
 
 il suffi de cliquer sur le bouton et de selectionner le **.csv** qui represente la classe
 
