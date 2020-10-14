@@ -12,7 +12,7 @@ il suffi de cliquer sur le bouton et de selectionner le **.csv** qui represente 
 
 l'interface evolue alors !!
 
-*image 2*
+<img src="./assets/img2.png">
 
 maintenant 2 boutons s'affiche
 * le bouton **chercher un autre eleve**
