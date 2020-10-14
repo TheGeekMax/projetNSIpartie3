@@ -72,5 +72,13 @@ qui va permettre d'ajouter un point a un eleve
 permet d'obtenir le nombre de fois qu'un eleve est interogé (si l'eleve n'a jamais été intérogé , alors le programme renvoie 0 (logique)
 
 ### saveSystem
-constante
+contients ce qu'il faut pour save
 
+#### save_name
+constante qui contient le nom du fichier qui contient les infos sur le nombre de fois intérogé
+
+#### loadData
+revoie les données comportant le nombre de fois où chaque eleve a été interogé
+
+#### saveData
+permet de sauvegarder les données dans un fichier
